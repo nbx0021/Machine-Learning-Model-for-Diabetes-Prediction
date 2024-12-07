@@ -84,16 +84,20 @@ Each model's confusion matrix and classification report are generated to assess 
 Below are some screenshots of the model's output and performance evaluation.
 
 ### **Model Training:**
-![Model Training](screenshots/model_training.png)
+![model_training_1](https://github.com/user-attachments/assets/34869a31-37a9-4460-a233-ed5b6a910e2d)
+![model_training_2](https://github.com/user-attachments/assets/f045d086-5bfd-461f-8b47-59a1725e097b)
+![model_training_3](https://github.com/user-attachments/assets/d637e7b2-307b-4e2e-afa5-a824808af1c8)
 
 ### **Confusion Matrix:**
-![Confusion Matrix](screenshots/confusion_matrix.png)
+![confusion_matrix](https://github.com/user-attachments/assets/41096d81-5ee6-4394-8237-3989ad890d6d)
 
 ### **ROC Curve:**
-![ROC Curve](screenshots/roc_curve.png)
+![ROC curves](https://github.com/user-attachments/assets/5ff7e50c-f60a-406e-a032-33d445391752)
+
 
 ### **Cross-validation results:**
-![Cross-validation](screenshots/cross_validation.png)
+![cross_validation](https://github.com/user-attachments/assets/53f927eb-4800-4db8-8084-21338085bd3f)
+
 
 ---
 
@@ -144,15 +148,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-### **Adding Screenshots to the Repository**
-
-1. Create a `screenshots` directory in the root of your project.
-2. Place all your relevant screenshots (e.g., **model_training.png**, **confusion_matrix.png**, **roc_curve.png**) in that directory.
-3. In the README file, refer to these images using markdown like so:
-
-```markdown
-![Model Training](screenshots/model_training_1.png)
-![Model Training](screenshots/model_training_2.png)
-![Model Training](screenshots/model_training_3.png)
-```
 
